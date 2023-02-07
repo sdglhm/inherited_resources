@@ -1,7 +1,7 @@
 # Changelog
 
 ## Master (unreleased)
-* Add Ruby 3.2 Test
+* Add Ruby 3.2 Test.
 
 ## Version 1.13.1
 
